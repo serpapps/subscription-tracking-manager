@@ -1,0 +1,2 @@
+# subscription-manager-app
+SERP Subscription tracker has everything you need to take control of your recurring payments and manage those subscriptions
